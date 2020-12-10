@@ -19,7 +19,7 @@ output: html_document
 
 # **Ben**
 
-I am editing this here. This is to report things. 
+I am editing this here. This is to report things. The point of this website is to show off cool things to the internet or things that i at least think are cool. 
 
 ## How to use
 
