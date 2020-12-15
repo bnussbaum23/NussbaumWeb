@@ -17,9 +17,9 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Ben**
+# **Some Good Movies**
 
-I am editing this here. This is to report things. The point of this website is to show off cool things to the internet or things that i at least think are cool. 
+I am editing this here. This is to report things. The point of this website is to show off cool things to the internet or things that I at least think are cool. 
 
 ## How to use
 
