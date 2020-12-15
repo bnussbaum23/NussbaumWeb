@@ -19,17 +19,11 @@ output: html_document
 
 # **Some Good Movies**
 
-I am editing this here. This is to report things. The point of this website is to show off cool things to the internet or things that I at least think are cool. 
+I plan to write ideas on tech trends, not news. Think Stratechery by Ben Thompson but with less words.
 
-## How to use
+## The Writing Begins Below
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
-
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
+1. I first want to begin with a formal warning. Although I will try my best to be factualy acurate in everything that I am writing, including baseing my opinions in some form of realm rooted in truth, I tend to belive these writing may go off the rails and enter a more comedic based approach. One in which I know at best 10% of the knoledge I would need to make any claim whatsover, yet proceed to spill my opinions and be super confidence in the things I have no reason to be an expert on. Stay tuned for how things will unfold.  
 
 
 </div>
